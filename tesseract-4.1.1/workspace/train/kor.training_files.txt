@@ -1,0 +1,1 @@
+./workspace/train/kor.맑은_고딕.exp0.lstmf
