@@ -1,0 +1,16 @@
+test/1.png	 디저트
+test/3.png	 마카롱
+test/5.png	 민트 컵케이크
+test/35.png	 카페라떼
+test/38.png	 오곡라떼
+test/45.png	 아포가토
+test/53.png	 카라멜프라페
+test/62.png	 유자차
+test/64.png	 페퍼민트
+test/115.png	 머핀
+test/119.png	 베이글
+test/126.png	 프렌치토스트
+test/130.png	 파니니
+test/133.png	 페퍼민트티
+test/98.png	 사케라또
+test/104.png	 수풀레

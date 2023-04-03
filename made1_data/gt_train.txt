@@ -1,0 +1,74 @@
+train/2.png	 레드 벨벳 케이크
+train/4.png	 민트 초콜릿
+train/6.png	 바닐라 라테
+train/9.png	 아메리카노
+train/10.png	 아이스 라테
+train/12.png	 아이스 티
+train/14.png	 애플 파이
+train/16.png	 오렌지 주스
+train/19.png	 차가운
+train/20.png	 초콜릿 케이크
+train/21.png	 치즈 버거
+train/22.png	 치즈 케이크
+train/23.png	 카페
+train/24.png	 피칸 파이
+train/26.png	 카페 라테
+train/27.png	 카페 모카
+train/28.png	 캐러멜 마키아토
+train/29.png	 크루아상
+train/30.png	 햄 치즈
+train/31.png	 햄버거
+train/36.png	 카페모카
+train/37.png	 망고요거트스무디
+train/49.png	 팥라떼
+train/56.png	 카푸치노
+train/60.png	 쑥라떼
+train/63.png	 카페라떼
+train/66.png	 카라멜마끼아또
+train/69.png	 고구마라떼
+train/70.png	 녹차
+train/71.png	 바닐라라떼
+train/72.png	 캐모마일
+train/73.png	 망고프라페
+train/74.png	 그린티라떼
+train/75.png	 얼그레이
+train/76.png	 카페모카
+train/78.png	 자몽에이드
+train/79.png	 레드벨벳케이크
+train/80.png	 바닐라라떼
+train/81.png	 망고에이드
+train/82.png	 그린티프라페
+train/84.png	 모카프라페
+train/85.png	 아이스티
+train/86.png	 에스프레소
+train/87.png	 아메리카노
+train/89.png	 딸기요거트스무디
+train/91.png	 그린티
+train/95.png	 케이크
+train/99.png	 마카롱
+train/102.png	 허브티
+train/111.png	 밀크티
+train/122.png	 아이스티
+train/136.png	 티라미수
+train/139.png	 핫도그
+train/142.png	 오레오프라페
+train/144.png	 블랙티라떼
+train/146.png	 아메리카노
+train/147.png	 그린티프라페
+train/148.png	 그린티라떼
+train/149.png	 에스프레소
+train/94.png	 아인슈페너
+train/100.png	 청포도
+train/106.png	 카야잼 토스트
+train/108.png	 앙버터
+train/110.png	 조각 케이크
+train/112.png	 샌드위치
+train/32.png	 에스프레소
+train/33.png	 망고 요거트 스무디
+train/34.png	 홍차 라떼
+train/39.png	 베리 요거트 스무디
+train/40.png	 초콜렛 라떼
+train/41.png	 에이드
+train/43.png	 쇼콜라치노
+train/44.png	 레몬
+train/46.png	 뱅쇼

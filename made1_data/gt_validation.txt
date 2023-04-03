@@ -1,0 +1,15 @@
+validation/0.png	 달걀 햄
+validation/7.png	 샌드위치
+validation/8.png	 소이 파크
+validation/11.png	 아이스 모카
+validation/15.png	 에스프레소
+validation/17.png	 오믈렛
+validation/18.png	 음료
+validation/25.png	 카푸치노
+validation/42.png	 초콜릿라떼
+validation/61.png	 아메리카노
+validation/65.png	 카푸치노
+validation/77.png	 레몬에이드
+validation/83.png	 모카프라페
+validation/88.png	 카푸치노
+validation/105.png	 허니 브레드
