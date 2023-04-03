@@ -72,4 +72,4 @@ To better recognize Korean language, it seemed best to use a model made by Korea
 </br>
 
 ## Try4. Train cafe menu items with my own data
-A model with very high performance was created, but I wanted to create a model that better recognizes cafe menu items. So, I created my own dataset of cafe menu items and fine-tuned the existing model with this data.
+A model with very high performance was created, but I wanted to create a model that better recognizes cafe menu items. So, I created my own dataset of cafe menu items and fine-tuned the existing model with this data. This is the final model I made.
